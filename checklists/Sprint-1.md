@@ -46,7 +46,3 @@ Make sure that your Personas satisfies the following criteria:
 - [✓] Sprint 1 documents were exported from Confluence and added to the repository (and are updated)
 - [✓] README file is updated and explain the team's repository
 - [✓] A baseline tag was generated for this Sprint (On Canvas, visit Assignment -> "Sprint 1: Confluence Space, project background and elicitation documents" page: you can find requirements for the baseline tag)
-
-## Additional Information
-
-*do you have any other additional information you'd like to share with us? Please add it here.*
